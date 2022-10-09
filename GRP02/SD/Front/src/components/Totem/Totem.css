@@ -1,0 +1,21 @@
+.illustration {
+    position: absolute;
+    top: 237px;
+    left: 80%;
+    height: 485px;
+    overflow: hidden;
+    transition: ease-in-out 0.5s;
+    border-radius: 30px;
+}
+
+.totem-img {
+    height: 500px;
+    overflow: hidden;
+}
+
+.illustration:hover {
+    box-shadow: 0 0.5em 0.5em -0.4em rgb(137, 69, 255);
+    transform: translateY(-0.25em);
+    transition: ease-in-out 0.5s;
+}
+
