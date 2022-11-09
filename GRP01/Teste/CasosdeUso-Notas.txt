@@ -1,0 +1,17 @@
+UC001
+Descrição ok
+
+Atores ok
+
+Pré-condições
+As pré-condições são fatos, valores, ou estados do sistema ou de sistemas relacionados que são necessários à execução do caso de uso.
+O 2. pode ser incluído no 1. O texto do 3. deveria ser algo como: O sistema deve ter conexão com o banco de dados... O 4. é uma "pós-condição" é o estado final do caso de uso.
+
+Variável de entrada ok
+
+Fluxo principal
+O FP1.1 é o mesmo do FP1. não há necessidade dele.
+
+Fluxo alternativo ok
+
+Fluxo exclusão ok
