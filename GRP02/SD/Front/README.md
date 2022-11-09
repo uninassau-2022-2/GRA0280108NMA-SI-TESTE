@@ -12,8 +12,6 @@ Um gerenciador de filas baseado em prioridades de senha e geração de relatóri
 - [Tecnologias e Inspirações](#tecnologias-e-inspirações-)
 - [Screenshots](#screenshots-)
 
-
-
 ### Proposta 📝: 
 
 - Ferramenta para apoio à gestão de atendimento ao usuário. Geralmente conhecido como sistema de "chamados".
@@ -65,7 +63,8 @@ npm install || yarn
 // Você pode usar o npm ou o yarn, fique à vontade.
 
 npm start || yarn start
-```   
+```
+
 ### Tecnologias e Inspirações 🌎: 
 
 - Utilizando ReactJS;
